@@ -1,3 +1,4 @@
+<p>И</p>
 <table>
     <tr>
         <th>0</th>
@@ -21,6 +22,7 @@
     </tr>
 </table>
 <br>
+<p>ИЛИ</p>
 <table>
     <tr>
         <th>0</th>
@@ -44,6 +46,7 @@
     </tr>
 </table>
 <br>
+<p>Исключающее ИЛИ</p>
 <table>
     <tr>
         <th>0</th>
